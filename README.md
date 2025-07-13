@@ -1,3 +1,5 @@
+Live link : https://gregarious-pixie-e6d0e8.netlify.app/
+
 #  **Scheduling Algorithms – A Visual Approach**
 
 Efficient CPU scheduling is essential for seamless multitasking, ensuring optimal CPU utilization by determining which process runs and when. This project, offers an **interactive and dynamic** visualization of various scheduling algorithms to enhance comprehension of execution order, waiting time, and turnaround time.
